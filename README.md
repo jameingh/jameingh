@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 https://jameingh.github.io/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameingh&layout=compact&hide=java,c++,golang,javascript,php,html,css)](https://github-readme-stats.vercel.app/api/top-langs/?username=jameingh&layout=compact&hide=java,c++,golang,javascript,php,html,css)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameingh&layout=compact&langs_count=10&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=jameingh&layout=compact&langs_count=10&count_private=true)
   
 ![jameingh](https://count.getloli.com/get/@jameingh?theme=rule34)  
   
