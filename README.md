@@ -1,29 +1,27 @@
-<!--
-**jameingh/jameingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello,World
 
-Here are some ideas to get you started:
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Jameingh，是一个后端工程师，有时写写 [Blog](https://juejin.cn/user/4388906146729016/posts)，也会一点 Golang / Python / Shell / Vue，本页内容参考自 <a href="https://github.com/tw93/tw93" target="_blank">tw93/tw93</a> ：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="960px">
+<tr>
+<td valign="top" width="50%">
+
+#### 🏊‍♂️ Github Stats
+
+[![jameingh's github stats](https://github-readme-stats.vercel.app/api?username=jameingh&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+<td valign="top" width="50%">
+
+#### 🏋️‍♀️ Most used Languages
+
+<!-- recent_releases starts -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameingh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- recent_releases ends -->
+
+</td>
+</tr>
 
 
-### 你好 👋 我是 jameingh
-### Hi 👋 This is jameingh
-
-一名打工人
-
-https://jameingh.github.io/
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameingh&layout=compact&langs_count=10&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=jameingh&layout=compact&langs_count=10&count_private=true)
-  
-![jameingh](https://count.getloli.com/get/@jameingh?theme=rule34)  
-  
-[![](https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=jameingh&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=jameingh&show_icons=true&count_private=true)  
-
+</table>
