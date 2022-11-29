@@ -13,7 +13,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🏋️‍♀️ Most used Languages
+#### 🏋️‍♀️ Most Used Languages
 
 <!-- recent_releases starts -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameingh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
