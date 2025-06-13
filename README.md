@@ -1,6 +1,6 @@
 ## Hello,World
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Jameingh，一个全栈架构师，有时写写 [Blog](https://juejin.cn/user/4388906146729016/posts)，会一点 Golang / Rust / Python / Shell / Vue / React / Tailwind CSS
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Jameingh，一个全栈架构师，有时写写 [Blog](https://juejin.cn/user/4388906146729016/posts)，会一点 Golang / Rust / Python / Shell / Typescript / Vue / React / Tailwind CSS
 
 <table width="960px">
 <tr>
